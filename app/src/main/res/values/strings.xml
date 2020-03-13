@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Car Service</string>
+
+    <string name="login_username">Username:</string>
+    <string name="login_password">Password:</string>
+    <string name="login_login_btn">Login</string>
+    <string name="login_register_btn">Register</string>
+    <string name="login_invalid_credentials_message">Wrong! username or password.</string>
+    <string name="login_remember_me">Remember me</string>
+    <string name="login_meniu_title">Login</string>
+
+    <string name="search_new_entry_button"> Add new visit</string>
+
+    <string name="new_entry_maintenance_type">Maintenance Type: </string>
+    <string name="new_entry_maintenance_type_periodic">Periodic</string>
+    <string name="new_entry_maintenance_type_engine">Engine</string>
+    <string name="new_entry_maintenance_type_chassis">Chassis</string>
+    <string name="new_entry_maintenance_city_type">City: </string>
+    <string name="new_entry_maintenance_city_Kaunas">Kaunas</string>
+    <string name="new_entry_maintenance_city_Vilnius">Vilnius</string>
+    <string name="new_entry_car_makeModel">Car Make Model: </string>
+    <string name="new_entry_dinner_payment_type">Payment: </string>
+    <string-array name="new_entry_dinner_payment_type">
+        <item>@string/new_entry_payment_cash</item>
+        <item>@string/new_entry_payment_card</item>
+        <item>@string/new_entry_payment_moq</item>
+        <item>@string/new_entry_payment_bitcoin</item>
+    </string-array>
+    <string name="new_entry_payment_cash">Cash</string>
+    <string name="new_entry_payment_card">Card</string>
+    <string name="new_entry_payment_moq">moQ</string>
+    <string name="new_entry_payment_bitcoin">bitCoin</string>
+    <string name="new_entry_insert">Create</string>
+    <string name="new_entry_database_info">Please wait- sending to db</string>
+    <string name="new_entry_update">Update</string>
+    <string name="new_entry_delete">Delete</string>
+    <string name="new_entry_meniu_title">New Visit</string>
+    <string name="existing_entry_meniu_title">Existing visit</string>
+    <string name="app_title1">Register</string>
+    <string name="register_name">Username</string>
+    <string name="register_email">E.mail</string>
+    <string name="register_phone">Phone</string>
+    <string name="register_password">Password</string>
+    <string name="register_register_btn">Register</string>
+    <string name="register_invalid_email_message">Wrong username or password</string>
+    <string name="new_entry_year">Year</string>
+</resources>
